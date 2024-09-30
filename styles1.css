@@ -4,20 +4,20 @@ body {
     background-color: #f0f0f0;
 }
 
-.container {
-    display: flex;
+.elso {
     width: 100%;
     height: 300px;
+    display: flex;
 }
-#purple {
+#lila {
     background-color: purple;
     width: 100%;
 }
-#yellow {
+#sarga {
     background-color: yellow;
     width: 100%;
 }
-#green {
+#zold {
     background-color: green;
     width: 100%;
 }

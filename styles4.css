@@ -5,25 +5,25 @@ body {
     
 }
 
-.container {
+.negyedik {
     display: flex;
     width: 100%;
     height: 600px;
     flex-direction: column;
 }
-#green {
+#z {
     background-color: green;
     width: 50%;
     height: 150px;
 }
 
-#yellow {
+#y {
     background-color: yellow;
     width: 50%;
     height: 300px;
 }
 
-#purple {
+#l {
     background-color: purple;
     width: 50%;
     height: 150px;
